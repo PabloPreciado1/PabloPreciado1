@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+### I'm Pablo, a student studying economics and data analytics at SPU.
 <!--
 **PabloPreciado1/PabloPreciado1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
